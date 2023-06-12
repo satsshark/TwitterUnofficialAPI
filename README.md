@@ -18,6 +18,8 @@ The TwitterUnofficialAPI offers several advantages over the official Twitter API
 7. **Search Streaming**: Supports streaming for search queries.
 8. **Timeline Streaming**: Allows streaming of the timeline of any Twitter user.
 9. **Tweet Fetching (Unlimited)**: Fetch tweets without limitations.
+10. **Supports Proxies**: Ability to utilize proxies for enhanced privacy and network flexibility.
+11. **Lightweight and No External Dependencies**: The module is lightweight and doesn't require any external dependencies, making it easy to integrate into your projects.
 
 ### Basic Functions
 
