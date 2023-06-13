@@ -1,7 +1,6 @@
 # TwitterUnofficialAPI
 
-Twitter's internal API (unofficial). This module contains Twitter's unofficial APIs, which include both the web front-end APIs and the Android app APIs. It has been developed through reverse engineering of the Twitter app and web front-end. This module is utilized by multiple Twitter bots owned by me, such as  [@LmaoGPT](https://twitter.com/LmaoGPT), 
-[@Babydogeburn_](https://twitter.com/Babydogeburn_), [@TruthGPTBot](https://twitter.com/TruthGPTBot), [@ShadowbanBot_](https://twitter.com/ShadowbanBot_), [@Briseburn](https://twitter.com/briseburn) and many more..
+Twitter's internal API (unofficial). This module contains Twitter's unofficial APIs, which include both the web front-end APIs and the Android app APIs. It has been developed through reverse engineering of the Twitter app and web front-end. This module is already utilized by multiple viral Twitter bots.
 
 The script is well-structured, properly maintained, and comes with sample files and readme documentation.
 
