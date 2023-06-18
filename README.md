@@ -44,7 +44,7 @@ ___This module bypasses the rate limits imposed by the Twitter post tweet API by
 
 ___No API keys are required to use this module. Only the username, password, and email are needed.___
 
-# For pricing and any other queries, users can contact me on my Twitter [@Satsshark](https://twitter.com/SatsShark) or on Telegram [@SatsShark](https://t.me/SatsShark). #
+# For pricing and any other queries, users can contact me on Telegram [@SatsShark](https://t.me/SatsShark). #
 
 
 
