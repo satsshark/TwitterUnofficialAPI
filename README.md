@@ -2,7 +2,7 @@
 
 Twitter's internal API (unofficial). This module contains Twitter's unofficial APIs, which include both the web front-end APIs and the Android app APIs. It has been developed through reverse engineering of the Twitter app and web front-end. This module is already utilized by multiple viral Twitter bots.
 
-The script is well-structured, properly maintained, and comes with sample files and readme documentation.
+The module is well-structured, and properly maintained, and comes with sample files and readme documentation.
 
 ## Benefits
 
